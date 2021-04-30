@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #Tutorial to install docker with netbox on Ubuntu 20.04 by tdads
 
 sudo apt-get update && sudo apt-get upgrade -y
